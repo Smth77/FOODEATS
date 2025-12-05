@@ -1,0 +1,21 @@
+// data/sample_foods.json
+[
+  {
+    "id": 1,
+    "name": "3 for 5 Deal",
+    "cuisine": "Fried Chicken",
+    "price": 5,
+    "tags": ["pure protein"],
+    "restaurant": "Popeyes",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Crunchwrap Surpreme",
+    "cuisine": "Mexican",
+    "price": 12.99,
+    "tags": ["vegetarian", "gluten-free"],
+    "restaurant": "Thai Garden",
+    "rating": 4.2
+  }
+]
